@@ -146,7 +146,7 @@ main {
   float: left;
   width: 100%;
   position: relative;
-  background-image: url(".dog.jpg");
+  background-image: url("./dog.jpg");
   background-size: cover;
   height: 300px;
 }
